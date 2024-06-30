@@ -1,4 +1,5 @@
-[! [MasterHead] https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif
+[! [MasterHead] ![github-contribution-grid-snake](https://github.com/retlaanesrun/retlaanesrun/assets/122984044/2951f24c-936e-45a0-9d65-912d597826cb)
+
 <h1 align="center">Hi 👋, I'm Nursena</h1>
 <h3 align="center">I was interested in cyber security from the 10th grade until my second year of university. However, I am now open to innovations and new opportunities. I have a beginner-level knowledge of C# and, due to my education, I am working on improving my skills in Unity (I am a bit mischievous in this regard). Additionally, I am also developing my skills in SQL. I do not limit myself to these areas and am eager to progress in different fields.</h3>
 
