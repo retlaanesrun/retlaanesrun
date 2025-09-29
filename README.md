@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nursena</h1>
-<h3 align="center">I was interested in cyber security from the 10th grade until my second year of university. However, I am now open to innovations and new opportunities. I have a beginner-level knowledge of C# and, due to my education, I am working on improving my skills in Unity (I am a bit mischievous in this regard). Additionally, I am also developing my skills in SQL. I do not limit myself to these areas and am eager to progress in different fields.</h3>
+<h3 align="center">I’ve been interested in cybersecurity from my sophomore year of high school up until my second year at university. Lately, though, I’ve been eager to explore new opportunities and broaden my horizons. I have beginner-level knowledge of C# and I’m working on improving my Unity skills (though I can be a bit cheeky with it). I’m also developing my SQL skills, but I don’t want to limit myself to just these areas—I’m always keen to branch out and grow in different fields.</h3>
 
 - 🔭 I’m currently working on **Benle Kal**
 
