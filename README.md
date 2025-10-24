@@ -8,7 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nursenaalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nursenaalter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/nursenaalter" target="blank"><img align="center" src="<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/840683e6-a1da-4b67-ba26-8e1fc05809d0" />
+" alt="linkedin.com/in/nursenaalter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
